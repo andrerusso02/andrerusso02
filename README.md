@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrerusso02 !
-- 👀 I’m interested in robotics 🤖
-- 🌱 I’m currently learning computer science at UTBM
+- 🤖 I’m interested in robotics 🤖
+- 👀 Make sure to check out my pinned repos! There are pictures for each project
 
 
 <!---
