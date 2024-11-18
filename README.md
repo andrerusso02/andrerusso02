@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm André Russo</h1>
  <p align="center"><br/>
-   <a href="www.linkedin.com/in/andré-russo-17817220b">
+   <a href="https://www.linkedin.com/in/andré-russo-17817220b">
     <img src="https://img.shields.io/badge/linkedin-André Russo-blue">
   </a>
 </p>
@@ -35,7 +35,7 @@ I like to do **robotics projects**. Let me show you my favorite ones.
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="1604" src="ressources/hexapod/robot.jpg"> | <img width="1604" src="ressources/hexapod/robot_tilt.gif">|
+|<img width="1000" src="ressources/hexapod/robot.jpg"> | <img width="1000" src="ressources/hexapod/robot_tilt.gif">|
 
 
 ### DIY ROS LiDAR
