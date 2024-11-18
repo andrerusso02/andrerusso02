@@ -35,7 +35,7 @@ I like to do **robotics projects**. Let me show you my favorite ones.
 
 | | |
 |:-------------------------:|:-------------------------:|
-| <img width="1000" src="ressources/hexapod/robot_tilt.gif"> | <img width="1000" src="ressources/hexapod/robot_tilt.gif"> |
+| <img width="1000" src="ressources/hexapod/robot.jpg"> | <img width="300" src="ressources/hexapod/robot_tilt.gif"> |
 
 
 ### DIY ROS LiDAR
